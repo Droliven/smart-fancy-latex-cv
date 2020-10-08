@@ -1,4 +1,6 @@
 # Smart Fancy LaTeX CV
+> 来自 overleaf.com 简历主题 第2个 2020-10-08
+
 LaTeX template for CV or resume with modern and smart infographic-style elements including fontawesome support.
 
 ![CV Screenshot](http://www.carminebenedetto.net/_downloads/smart-fancy-latex-cv-screenshot.jpg)
